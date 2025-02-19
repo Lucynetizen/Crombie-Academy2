@@ -239,6 +239,7 @@ console.log(mostrarUbicacion(Madrid));
 console.log(mostrarUbicacion(Paris));   
 console.log(mostrarUbicacion(Tokyo));
 
+//ejercicio 10
 class Coche {
   public marca: string;
   public modelo: string;
